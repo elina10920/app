@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/elina/.android/build-cache/9df7ae5d3517fcfec5a2b4333d132cf1753ad60a/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e820b7be8c035dd522da4bc822e8a76c8e27921a">
+        <dex dex="/Users/elina/Desktop/andriod_app/GithubTest/app/build/intermediates/pre-dexed/debug/classes_5e7319530702662455bdda59e984e6ddc29338ae.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/elina/.android/build-cache/c993ffa9f60bb6a615229873cb48a854320f01c9/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ee394a892dd21c03a528139c1e8d4e0e1264ac84">
+        <dex dex="/Users/elina/Desktop/andriod_app/GithubTest/app/build/intermediates/pre-dexed/debug/classes_8f2b2b0afdb76e381139cae6cee848dbac5a9197.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/elina/.android/build-cache/f15e273028bdcef1634dec2ea25b393ea1ecdee5/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="cb454b52545859ed2f24a6c01366805b0fa04b22">
+        <dex dex="/Users/elina/Desktop/andriod_app/GithubTest/app/build/intermediates/pre-dexed/debug/classes_beee641177def3a473fc3ba1b2cb4e6910d455b8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/elina/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.2.0/support-annotations-25.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4a5a82a027706397fff621b22fd6fa796e91d7c5">
+        <dex dex="/Users/elina/Desktop/andriod_app/GithubTest/app/build/intermediates/pre-dexed/debug/support-annotations-25.2.0_2873bcc6c63f27f31d97051d324cafe10fcc3663.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/elina/.android/build-cache/41bc6893c5cb6a37e883fc8723bc75e5523266a1/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8fe8a8f77d651982ce5e18f6187dc4daf914ac57">
+        <dex dex="/Users/elina/Desktop/andriod_app/GithubTest/app/build/intermediates/pre-dexed/debug/classes_6bfc40c420373ea8a9a428ac47a897b5753c871a.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/elina/Desktop/andriod_app/GithubTest/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1c79bc4b2808853673d2d02947e115736db9ca47">
+        <dex dex="/Users/elina/Desktop/andriod_app/GithubTest/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_0a98c565e6801e6a9355485333ea16bfa9b79e9f/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/elina/.android/build-cache/9e2f98de9ab277458e42881f7c20d2da80e6f5d7/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7113302c965566b66df46c6ca75ea301576114a5">
+        <dex dex="/Users/elina/Desktop/andriod_app/GithubTest/app/build/intermediates/pre-dexed/debug/classes_dadec1013a5a9a9b8b359b17e573a4879ccae5b9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/elina/.android/build-cache/b7f331537ce8f31884624183805dd04839c85cb8/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="67eb33110dbacb46a48175b08ae0c96761d2c17d">
+        <dex dex="/Users/elina/Desktop/andriod_app/GithubTest/app/build/intermediates/pre-dexed/debug/classes_ceeae3b4fd313e588768b49241bae1cd42417d46.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/elina/Library/Android/sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.1/constraint-layout-solver-1.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1ad79631209e77b0a2730fc112b4cc0c66a95132">
+        <dex dex="/Users/elina/Desktop/andriod_app/GithubTest/app/build/intermediates/pre-dexed/debug/constraint-layout-solver-1.0.1_cfe2824f9ef25fc21e6fdff4bbd238f0fef70a9b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/elina/.android/build-cache/4ec1abf82d8266154fbd18d031299ef89cd0e597/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="fa0446a14ed5dd3725047d6399ffea771a564b30">
+        <dex dex="/Users/elina/Desktop/andriod_app/GithubTest/app/build/intermediates/pre-dexed/debug/classes_592f4186f14c0a12d7bf8b4841aa3ca2169ebac7.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/elina/Desktop/andriod_app/GithubTest/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c82741bc129dd5f99f11a4ab8666ae24262053b6">
+        <dex dex="/Users/elina/Desktop/andriod_app/GithubTest/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_2fa38663dcef1eea6c2a6a213ae2a624425d9f9e/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/elina/.android/build-cache/ed5a2f2ebf60fc9485146c9e5298bc787bbd6b11/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/elina/Desktop/andriod_app/GithubTest/app/build/intermediates/pre-dexed/debug/classes_a82586b162515cc37dbffe7dc0810ae9b314f044.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/elina/.android/build-cache/5e612886e66e2e54ee4a2ed30afd6628c1b5b37e/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="702d339bc0a81d21354cd7e2cf2b67225fa4a16c">
+        <dex dex="/Users/elina/Desktop/andriod_app/GithubTest/app/build/intermediates/pre-dexed/debug/classes_fccddc82c1df95152705e2f496c1155601e847c2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/elina/.android/build-cache/7149cff6f3c77f4a6e04dc30a6d1cc81d6087276/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="810f41e5b7fd99f196ebeabe865ba2c54e7e76dc">
+        <dex dex="/Users/elina/Desktop/andriod_app/GithubTest/app/build/intermediates/pre-dexed/debug/classes_017fd11740e45ecd3b1a76a60ccf3f88104af710.jar" />
+    </item>
+
+</items>
